@@ -31,5 +31,4 @@ Dataset
       |--Img1
       |--Img2
 
-
 Note: Try to use Google Colab only for faster training.
