@@ -1,7 +1,7 @@
 # FaceRec🎥💻👱
 A Deep Learning project for face recognition from video input 
 
- ![](FaceRec.gif)
+<img src="FaceRec.gif" height="400" width="600">
 
 Here I used CNN architecture to train the model and took VGG16's architecture partially for building the model.
 Also used haarcascade's for detecting the faces from videos.
