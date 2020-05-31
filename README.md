@@ -8,3 +8,6 @@ Also used haarcascade's for detecting the faces from videos with data augmentati
 The whole dataset was uploaded to google drive and later directory path is navigated to script.
 
 #### Note: Try to use Google Colab only for faster training.
+
+#### Watch full video demo: https://www.youtube.com/watch?v=_wmBjP-Wvk4
+
